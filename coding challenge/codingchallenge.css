@@ -1,0 +1,67 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;     
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    background:rgba(0, 0, 0, 0.507) ;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+.logo{
+    width: 200px;
+    margin-left: 40%;
+}
+
+.logo-text{
+    color: limegreen;
+    margin-left: 27%;
+}
+
+.buttons{
+    background-color: limegreen;
+    padding: 10px;
+    text-align: center;
+}
+
+.check{
+    display: inline-block
+}
+
+.carica1{
+    background-color: orange;
+    background-size:100px 20px ;
+    padding: 5px;
+    padding-right: 300px;
+    border-radius: 10px;
+}
+
+.carica2{
+    background-color: green;
+    background-size:100px 20px ;
+    padding: 5px;
+    padding-right: 500px;
+    border-radius: 10px;
+}
+
+.carica3{
+    background-color: red;
+    background-size:100px 20px ;
+    padding: 5px;
+    padding-right: 150px;
+    border-radius: 10px;
+}
+
+.gino22{
+    color: white;
+}
+
+.mike24{
+    color: white;
+}
+
+.fede154{
+    color: white;
+}
